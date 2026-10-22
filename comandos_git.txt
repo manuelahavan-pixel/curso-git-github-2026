@@ -13,3 +13,5 @@ git log -> mostra todo o histórico de commit
 5. git add nome arquivo
 6. git commit -m "mensagem"
 7. volta para o passo 3
+
+manu
