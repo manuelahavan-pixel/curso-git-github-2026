@@ -1,1 +1,5 @@
 *.pptx
+*.csv
+*.xls
+*.xslx
+*.parquet
